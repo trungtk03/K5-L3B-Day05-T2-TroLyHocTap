@@ -5,7 +5,7 @@
 
 ## Thông tin nhóm
 - **Lớp:** L3B
-- **Bàn / Zone:** Bàn 02 · Zone B
+- **Bàn / Zone:** G
 - **Track:** T2 — Giáo dục
 - **Tên nhóm:** TroLyHocTap
 - **Repo URL:** `https://github.com/trungtk03/K5-L3B-Day05-T2-TroLyHocTap`
