@@ -2,7 +2,7 @@
 
 ## Danh sách thành viên và phân công công việc
 
-**Lớp:** L3B · **Bàn / zone:** Bàn 02 · Zone B · **Track:** T2 — Giáo dục (Trợ lý học bài tối muộn)  
+**Lớp:** L3B · **Bàn / zone:** G **Track:** T2 — Giáo dục (Trợ lý học bài tối muộn)  
 **Tên nhóm:** TroLyHocTap · **Repo:** `K5-L3B-Day05-T2-TroLyHocTap`
 
 | Họ và Tên | Mã Học Viên | Việc đã làm |
