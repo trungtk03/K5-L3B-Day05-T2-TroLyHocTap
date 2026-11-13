@@ -1,0 +1,9 @@
+# Environment variables (chứa API key - tuyệt đối không commit lên GitHub)
+.env
+.env.local
+.env.*.local
+
+# Dependency & System
+node_modules/
+.DS_Store
+Thumbs.db
